@@ -1,0 +1,18 @@
+python --version
+
+jupyter noteook
+
+new ...python 3 .... cell where cuursor is blinking ....
+print("Hello World") 						shift + enter to run the program
+variable banany k lia koe keyword use ni hota
+type(variablename) 					type() to fnd the type of variable
+id(variable) 						id() to find the address/location of variable in memory
+data type string , int , float
+operator + , - , * , / , // , % ...
+divide krty wy agr ek slash(/) lgya to ans float m aye ga
+or agr do slash(//) lgya tou flour division ho kr ans int aye ga ...point k bd wali sari value discrd kr dy ga
+comment k lia # use krty hy 			#
+
+keywords ....print ...variable no sy start ni hoga ...variable m special character n a skta ..na shuru m na beech m ....
+
+chapters 1 , 2 , 3 , 4 , 5 ...done

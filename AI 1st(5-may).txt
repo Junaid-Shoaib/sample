@@ -1,5 +1,11 @@
 python --version
 
+Mera Naam Mohammad Haris Arshad hai.
+Meri taleem graduation hai.
+or mein memes bht shock se dkhta hun
+taturial se mujhe Neend aane lagti hai
+ghr mein jab soone k liye leto ghr wale dahii lene bhej dete hain.
+
 jupyter noteook
 
 new ...python 3 .... cell where cuursor is blinking ....
